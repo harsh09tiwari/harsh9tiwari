@@ -1,5 +1,6 @@
-## [Namaste, I'm Harsh Tiwari <img src="https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/namaste.gif" width="6%" style="vertical-align: bottom;">](https://harsh09tiwari.netlify.app)
+# Namaste, I'm Harsh Tiwari  
 
+[![Namaste](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/namaste.gif)](https://harsh09tiwari.netlify.app)
 
 ## ✨ About Me  
 
