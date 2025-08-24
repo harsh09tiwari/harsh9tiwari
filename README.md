@@ -1,6 +1,4 @@
-# Namaste, I'm Harsh Tiwari  
-
-[![Namaste](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/namaste.gif)](https://harsh09tiwari.netlify.app)
+# Namaste, I'm Harsh Tiwari <a href="https://harsh09tiwari.netlify.app"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width="6%" style="vertical-align: bottom;"></a>
 
 ## ✨ About Me  
 
