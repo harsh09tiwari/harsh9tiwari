@@ -1,4 +1,4 @@
-# Namaste, I'm Harsh Tiwari <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a>
+# Namaste, I'm Harsh Tiwari <a href="harsh09tiwari.netlify.app"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a>
 
 <h2>✨&nbsp;About Me</h2>
 
