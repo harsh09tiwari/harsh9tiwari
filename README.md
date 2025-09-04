@@ -8,4 +8,4 @@ I'm a **final-year Computer Science student** and an **aspiring Full Stack Devel
 - 📚 Always learning and leveling up my skills  
 - 📧 **Reach me at**: [harshtiwarigips@gmail.com](mailto:harshtiwarigips@gmail.com)  
 - 🙋‍♂️ **Pronouns**: He/Him  
-- 🏏 **Fun fact**: I’m pretty good at cricket!  
+- 🏏 **Fun fact**: I’m good at cricket!  
