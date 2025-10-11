@@ -7,5 +7,5 @@ I'm a **final-year Computer Science student** and an **aspiring Full Stack Devel
 - 🌱 Currently working on personal projects  
 - 📚 Always learning and leveling up my skills  
 - 📧 **Reach me at**: [harshtiwarigips@gmail.com](mailto:harshtiwarigips@gmail.com)  
-- 🙋‍♂️ **Pronouns**: He/Him  
+- 🙋‍♂️ **Pronouns**: He/Him 
 - 🏏 **Fun fact**: I’m good at cricket!  
